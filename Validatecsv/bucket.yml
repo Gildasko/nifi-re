@@ -1,5 +1,6 @@
 flows:
-  114e390d-3c30-4455-8995-fb561a154c9d: {ver: 1, file: TP1.snapshot, comments: '',
-    author: anonymous, created: 1666166377947, flowName: TP1, flowDesc: First test}
+  114e390d-3c30-4455-8995-fb561a154c9d: {ver: 2, file: TP1.snapshot, comments: Change
+      lenght to 5, author: anonymous, created: 1666167021593, flowName: TP1, flowDesc: First
+      test}
 layoutVer: 1
 bucketId: 2557ae2b-c40b-4592-bfd6-635a93443c41

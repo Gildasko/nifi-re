@@ -373,7 +373,7 @@
             "y" : -24.0
           },
           "properties" : {
-            "validate-csv-schema" : "Unique(),Strlen(4)",
+            "validate-csv-schema" : "Unique(),Strlen(5)",
             "validate-csv-eol" : "\\n",
             "validate-csv-delimiter" : ",",
             "validate-csv-header" : "true",
